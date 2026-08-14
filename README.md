@@ -1,5 +1,9 @@
 # Kubernetes Training (Udemy)
 
+## Vagrant
+It can be run with the command:
+```vagrant up```
+
 Links
 | Name | URL |
 | ---- | ---- |
