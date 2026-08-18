@@ -6,7 +6,7 @@ cat > kubeadm-config.yml <<EOF
 apiVersion: kubeadm.k8s.io/v1beta4
 kind: InitConfiguration
 localAPIEndpoint:
-  advertiseAddress: 172.89.0.11
+  advertiseAddress: 192.168.56.11
   bindPort: 6443
 ---
 apiVersion: kubeadm.k8s.io/v1beta4
