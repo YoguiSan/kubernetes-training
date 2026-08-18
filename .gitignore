@@ -1,1 +1,8 @@
 kubeadm/.vagrant
+kubespray
+terraform/master.tf
+terraform/provider.tf
+terraform/terraform.tfvars
+terraform/worker.tf
+terraform/inventory.tf
+terraform/variables.tf
