@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "README",
-    "Vagrantfile"
+    "Vagrantfile",
+    "Shell scripts"
   ]
 }
